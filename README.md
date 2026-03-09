@@ -9,7 +9,7 @@ I work with data to create insights, dashboards, and reports that support busine
 * 👯 I’m looking to collaborate on **data analysis projects and dashboard development**
 * 🤔 I’m looking for help with **improving my Python and data engineering skills**
 * 💬 Ask me about **SQL, Excel, Tableau, dashboards, and data analysis**
-* 📫 How to reach me: **LinkedIn | Email**
+* 📫 How to reach me: **https://www.linkedin.com/in/guna-sampath-b1345036a/ | gunasampath0212@gmail.com**
 * ⚡ Fun fact: **I enjoy turning messy data into meaningful insights**
 
 ### 🛠️ Skills
