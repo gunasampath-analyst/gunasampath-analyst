@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Guna Sampath
 
-<!--
-**gunasampath-analyst/gunasampath-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Data Analyst | 2 Years Experience | Healthcare Domain**
 
-Here are some ideas to get you started:
+I work with data to create insights, dashboards, and reports that support business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I’m currently working on **data analysis, reporting automation, and dashboard development**
+* 🌱 I’m currently learning **Advanced SQL, Python for Data Analysis, and Power BI**
+* 👯 I’m looking to collaborate on **data analysis projects and dashboard development**
+* 🤔 I’m looking for help with **improving my Python and data engineering skills**
+* 💬 Ask me about **SQL, Excel, Tableau, dashboards, and data analysis**
+* 📫 How to reach me: **LinkedIn | Email**
+* ⚡ Fun fact: **I enjoy turning messy data into meaningful insights**
+
+### 🛠️ Skills
+
+SQL • Excel • Tableau • Power BI • Data Analysis • Data Cleaning • Reporting • Dashboarding
+
+### 📊 Current Focus
+
+Building projects in **SQL, Python, and Power BI** to strengthen my data analytics portfolio.
+
