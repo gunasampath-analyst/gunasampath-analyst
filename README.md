@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Guna Sampath
 
-💼 **Data Analyst | 2 Years Experience | Healthcare Domain**
+💼 **Aspiring Data Analyst | 2 Years Experience As (SME) | Healthcare Domain**
 
 I work with data to create insights, dashboards, and reports that support business decisions.
 
