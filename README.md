@@ -14,7 +14,7 @@ I work with data to create insights, dashboards, and reports that support busine
 
 ### 🛠️ Skills
 
-SQL • Excel • Tableau • Power BI • Data Analysis • Data Cleaning • Reporting • Dashboarding
+SQL • Excel • Python • Power BI • Data Analysis • Data Cleaning • Reporting • Dashboarding
 
 ### 📊 Current Focus
 
