@@ -1,22 +1,32 @@
-## Hi there 👋 I'm Guna Sampath
+# Hi, I'm Guna Sampath 👋
 
-💼 **Aspiring Data Analyst | 2 Years Experience As (SME) | Healthcare Domain**
+### Data Analyst | Business Intelligence | SQL • Python • Power BI
 
-I work with data to create insights, dashboards, and reports that support business decisions.
+I turn raw data into actionable insights through SQL analysis, Python, 
+Power BI dashboards, and business-focused reporting.
 
-* 🔭 I’m currently working on **data analysis, reporting automation, and dashboard development**
-* 🌱 I’m currently learning **Advanced SQL, Python for Data Analysis, and Power BI**
-* 👯 I’m looking to collaborate on **data analysis projects and dashboard development**
-* 🤔 I’m looking for help with **improving my Python and data engineering skills**
-* 💬 Ask me about **SQL, Excel, Tableau, dashboards, and data analysis**
-* 📫 How to reach me: **https://www.linkedin.com/in/guna-sampath-b1345036a/ | gunasampath0212@gmail.com**
-* ⚡ Fun fact: **I enjoy turning messy data into meaningful insights**
+💼 **Experience:** 2+ years in healthcare operations at WNS Global Services  
+🎓 **Education:** MCA — In Progress  
+🛠️ **Core Skills:** SQL | Python | Power BI | Excel | Databricks
+📊 **Focus:** Data Analysis | Business Intelligence | KPI Reporting | Data Visualization
 
-### 🛠️ Skills
+### 🚀 What I'm Building
+- 📈 SQL projects focused on data cleaning, analysis, and business insights
+- 🐍 Python projects for exploratory data analysis and statistical analysis
+- 📊 Power BI dashboards focused on KPIs, profitability, and business decisions
+- 💡 Portfolio projects that connect data findings with actionable recommendations
 
-SQL • Excel • Python • Power BI • Data Analysis • Data Cleaning • Reporting • Dashboarding
+### 🧠 My Approach
+**Understand the business problem → Analyze the data → Find meaningful insights → Support better decisions.**
 
-### 📊 Current Focus
+### 🌱 Currently Learning
+Advanced SQL • Python for Data Analysis • Power BI & DAX
 
-Building projects in **SQL, Python, and Power BI** to strengthen my data analytics portfolio.
+### 🤝 Open To
+Entry-Level Data Analyst | BI Analyst | Business Analyst Opportunities  
+Data Analytics Projects | Collaborations | Internships
 
+### 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/guna-sampath-b1345036a/
+
+⚡ I enjoy turning messy data into meaningful insights and helping businesses make data-driven decisions.
